@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dayglojago
+- 👀 I’m interested in all sorts of things, but right now it's small business software.
+- 🌱 I’m currently learning SwiftUI, Computer Graphics, and how to cook lamb well.
+- 💞️ I’m looking to collaborate on anything! SHoot me a message.
+- 📫 How to reach me: here, @dayglojago on twitter, and my email is jago@pullscription.com

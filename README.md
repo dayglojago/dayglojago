@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dayglojago
 - 👀 I’m interested in learning and growth, as well as exploring knowledge.
-- 🌱 I’m currently learning SwiftUI, how to run a Startup, and how to cook lamb well.
+- 🌱 I’m currently learning how to run a startup and the best way to distill learning, along with brushing up my JS/HTML/CSS!
 - 💞️ I’m looking for people interested in engineering Pullscription! Shoot me a message if you're interested in working with us.
 - 📫 How to reach me: here, @dayglojago on twitter, or my email: jago@pullscription.com

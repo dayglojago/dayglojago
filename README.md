@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dayglojago
-- 👀 I’m interested in all sorts of things, but right now it's small business software.
+- 👀 I’m interested in learning and growth, as well as exploring knowledge.
 - 🌱 I’m currently learning SwiftUI, how to run a Startup, and how to cook lamb well.
-- 💞️ I’m looking to collaborate on anything! Shoot me a message.
-- 📫 How to reach me: here, @dayglojago on twitter, and my email is jago@pullscription.com
+- 💞️ I’m looking for people interested in engineering Pullscription! Shoot me a message if you're interested in working with us.
+- 📫 How to reach me: here, @dayglojago on twitter, or my email: jago@pullscription.com
